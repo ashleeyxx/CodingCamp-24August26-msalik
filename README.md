@@ -1,2 +1,2 @@
-# CodingCamp 24August26-msalik
-
+# CodingCamp-24August26-salik
+lets make a website
